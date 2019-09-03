@@ -1,2 +1,2 @@
 # personal-website
-[personal website](https://giorgi.netlify.com)
+[giorgi.netlify.com](https://giorgi.netlify.com)
